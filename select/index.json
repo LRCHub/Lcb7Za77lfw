@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "恋は渾沌の隷也",
+  "base_artist": "後ろから這いより隊G",
+  "createdAt": "2025-12-20T10:03:08.318110Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋は渾沌の隷也",
+      "artist": "後ろから這いより隊G",
+      "has_synced": true,
+      "path": "select/01_恋は渾沌の隷也_後ろから這いより隊G.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋は渾沌の隷也",
+      "artist": "後ろから這いより隊G",
+      "has_synced": true,
+      "path": "select/02_恋は渾沌の隷也_後ろから這いより隊G.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋は渾沌の隷也",
+      "artist": "Ushirokarahaiyoritai G",
+      "has_synced": true,
+      "path": "select/03_恋は渾沌の隷也_Ushirokarahaiyoritai_G.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋は渾沌の隷也",
+      "artist": "後ろから這いより隊G",
+      "has_synced": true,
+      "path": "select/04_恋は渾沌の隷也_後ろから這いより隊G.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋は渾沌の隷也（Instrumental）",
+      "artist": "後ろから這いより隊G",
+      "has_synced": true,
+      "path": "select/05_恋は渾沌の隷也(Instrumental)_後ろから這いより隊G.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋は渾沌の隷也 - Koihakaosunoshimobenari",
+      "artist": "Ushirokarahaiyoritaig",
+      "has_synced": true,
+      "path": "select/06_恋は渾沌の隷也_-_Koihakaosunoshimobenari_Ushirokarahaiyoritaig.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋は渾沌の隷也 (Instrumental)",
+      "artist": "後ろから這いより隊G",
+      "has_synced": true,
+      "path": "select/07_恋は渾沌の隷也_(Instrumental)_後ろから這いより隊G.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋は渾沌の隷也",
+      "artist": "後ろから這いより隊G",
+      "has_synced": true,
+      "path": "select/08_恋は渾沌の隷也_後ろから這いより隊G.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "恋は渾沌の隷也",
+      "artist": "後ろから這いより隊G",
+      "has_synced": true,
+      "path": "select/09_恋は渾沌の隷也_後ろから這いより隊G.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "恋は渾沌の隷也",
+      "artist": "後ろから這いより隊G",
+      "has_synced": true,
+      "path": "select/10_恋は渾沌の隷也_後ろから這いより隊G.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "恋は渾沌の隷也",
+      "artist": "後ろから這いより隊",
+      "has_synced": true,
+      "path": "select/11_恋は渾沌の隷也_後ろから這いより隊.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "恋は渾沌の隷也",
+      "artist": "Ushirokara Haiyoritai G",
+      "has_synced": true,
+      "path": "select/12_恋は渾沌の隷也_Ushirokara_Haiyoritai_G.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋は渾沌の隷也",
+      "artist": "後ろから這いより隊G (ニャル子×クー子×珠緒)",
+      "has_synced": false,
+      "path": "select/pl_01_恋は渾沌の隷也_後ろから這いより隊G_(ニャル子×クー子×珠緒).txt"
+    }
+  ]
+}
